@@ -9,3 +9,29 @@ p::first-line{
 h1.blau{
     color:blue;
 }
+
+
+li {
+    color: #757575;
+    font-family: "Inter", Sans-Serif;
+    font-weight: 550;
+    font-size: 13pt;
+    margin-left: 25px;
+    display: inline;
+    margin-right: 5px;
+    float: right ;
+}
+
+a.activo:active{
+    background-color: yellow;
+    color: red;
+}
+
+a:link{
+    color:blue;
+    background-color: white;
+}
+a:visited {
+    color:white;
+    background-color: blue;
+}
