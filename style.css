@@ -27,11 +27,11 @@ a.activo:active{
     color: red;
 }
 
-a:link{
+p a:link{
     color:blue;
     background-color: white;
 }
-a:visited {
+p a:visited {
     color:white;
     background-color: blue;
 }
